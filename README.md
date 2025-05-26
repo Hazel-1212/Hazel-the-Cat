@@ -1,2 +1,2 @@
 # Hazel-the-Cat
-My repository to establish a web page.
+Hazel, a cat lover.
