@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Courses
+layout: page
+title: courses
 ---
 
 <h1>修課紀錄</h1>
