@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+  body {
+    font-family: sans-serif;
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+  h1 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.3em;
+  }
+  .blog-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+  .blog-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    transition: box-shadow 0.3s ease;
+  }
+  .blog-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  .blog-card h2 {
+    margin: 0 0 0.5rem 0;
+  }
+  .blog-card .date {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  .blog-card .excerpt {
+    margin: 0.5rem 0;
+    color: #333;
+  }
+  .read-more {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #007acc;
+    text-decoration: none;
+  }
+  .read-more:hover {
+    text-decoration: underline;
+  }
+</style>
+
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
+
+
