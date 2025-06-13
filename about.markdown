@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-<img src="https://github.com/Hazel-1212/Hazel-the-Cat/blob/main/Brown%20Yellow%20Cat%20Logo.png?raw=true" width=200>
+<img src="https://github.com/Hazel-1212/Hazel-the-Cat/blob/main/pictures/Brown%20Yellow%20Cat%20Logo.png?raw=true" width=200>
 
 
 **Hazel Chen**

@@ -21,7 +21,7 @@
 title: Hazel's Cat Bed
 email: achievegoal9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  To remark the fleeting time.
+ Hazel Chen, a student in NYCU EE, is documenting her journey and experiences.
 baseurl: "/Hazel-the-Cat" # the subpath of your site, e.g. /blog
 url: "https://hazel-1212.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
