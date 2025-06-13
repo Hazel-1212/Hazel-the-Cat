@@ -13,9 +13,6 @@ title: "Home"
 - [大一上修課紀錄](_posts/2025-02-18-大一上修課紀錄.md)
 - [大一下修課紀錄](_posts/2025-06-08-大一下修課紀錄.md)
 
-## Projects
-**Guideline of the projects on GitHub** 
-
 ## Treasure Trove
 **Other sources**
 - [多元表現](_posts/2025-02-18-多元表現.md)
