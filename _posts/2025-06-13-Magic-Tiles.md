@@ -5,8 +5,8 @@ date:   2025-06-13 18:42:19 +0800
 categories: jekyll update
 ---
 
-- GitHub : [Magic Tiles](https://github.com/Hazel-1212/Magic_Tiles.git)
-- Keywords: UART, Python, FPGA, Music Game.
+-  [Watch it in GitHub](https://github.com/Hazel-1212/Magic_Tiles.git)
+- Keywords: *UART, Python, FPGA, Music Game*.
 
 ## **Introduction**
 1. **About the game**

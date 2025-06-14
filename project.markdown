@@ -3,16 +3,59 @@ layout: page
 title: Projects
 ---
 
-**Guideline of the projects on GitHub** 
-# Verilog
-- [Magic Tiles](_posts/2025-06-13-Magic-Tiles.md) : A FPGA music game inspired by *Magic Tiles*.
+# **Guideline of the projects on GitHub** 
+## **Magic Tiles**
+*2025-05*
 
-# Python
-- [Rhythm Dodge](_posts/2025-06-13-Magic-Tiles.md) : A Python music game inspired by the game, *Just shapes and beats*.
+### `Abstract`
 
-- [Square_throwing_Simulation](_posts/2025-06-13-Magic-Tiles.md) : 
+A FPGA music game inspired by *Magic Tiles*. 
+
+Use Nexys4 DDR, both Verilog and Python.
+
+### `Info`
+
+Final project of the course -- Digital Lab in 114 spring.
+
+[**More about ...**](_posts/2025-06-13-Magic-Tiles.md)  
+
+## **Rhythm Dodge**
+*2025-06*
+### `Abstract`
+
+A Python music game inspired by the game, *Just shapes and beats*.
+
+Use Python and OOP concept.
+
+### `Info`
+
+Final project of the course -- OOP in 114 spring.
+
+[**More about ...**](_posts/2025-06-13-Magic-Tiles.md) 
+
+## **Square-throwing Simulation**
+*2025-04*
+
+### `Abstract`
 
 A Python simulation to get expected values, and verify with probability calculation or codes.
 
-# C++
-- [Simple Routing](_posts/2025-06-13-Magic-Tiles.md) : A C++ finding-shortest-route simulation
+### `Info`
+
+Programming homework of the course -- Probability in 114 spring.
+
+[**More about ...**](_posts/2025-06-13-Magic-Tiles.md) : 
+
+
+## **Simple Routing**
+*2024-12*
+
+### `Abstract`
+
+A C++ finding-shortest-route simulation
+
+### `Info`
+
+Final project of the course -- Introduction to Computers and Programming in 113 fall.
+
+[**More about ...**](_posts/2025-06-13-Magic-Tiles.md) 
