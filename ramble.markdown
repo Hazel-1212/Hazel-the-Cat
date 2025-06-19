@@ -16,11 +16,14 @@ title: 隨筆
 ## 小札
 
 ### Mymory
-*2025-08* <img src="https://github.com/Hazel-1212/Hazel-the-Cat/blob/main/pictures/tree.png" width=100>
+*2025-08* 
+
+<img src="https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/pictures/tree.png" width="100">
+
 
 [一棵棵可愛的樹茂盛了一周一周的生活，自從在IG上滑到Mymory這款日記APP之後，原本我寫紙本日記的習慣就被打破了...](https://mymory.app/)
 
-<img src="https://github.com/Hazel-1212/Hazel-the-Cat/blob/main/pictures/mymory.png" width=200>
+<img src="https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/pictures/mymory.png" width="200">
 
 ### 美食紀錄
 *2025-08*
