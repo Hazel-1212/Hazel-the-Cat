@@ -31,7 +31,7 @@ Use Python and OOP concept.
 
 Final project of the course -- OOP in 114 spring.
 
-[**More about ...**](_posts/2025-06-13-Magic-Tiles.md) 
+[**More about ...**](https://github.com/haleychang0530/oop-2025-proj-rhythm-dodge.git) 
 
 ## **Square-throwing Simulation**
 *2025-04*
@@ -44,7 +44,7 @@ A Python simulation to get expected values, and verify with probability calculat
 
 Programming homework of the course -- Probability in 114 spring.
 
-[**More about ...**](_posts/2025-06-13-Magic-Tiles.md) : 
+[**More about ...**](https://github.com/Hazel-1212/Square_throwing_Simulation.git) : 
 
 
 ## **Simple Routing**
@@ -58,4 +58,4 @@ A C++ finding-shortest-route simulation
 
 Final project of the course -- Introduction to Computers and Programming in 113 fall.
 
-[**More about ...**](_posts/2025-06-13-Magic-Tiles.md) 
+[**More about ...**](https://github.com/Hazel-1212/Simple-Routing.git) 
