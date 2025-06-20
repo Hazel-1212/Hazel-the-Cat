@@ -3,7 +3,13 @@ layout: page
 title: Vlog
 ---
 
-# Proj Video
-- [2025數位實驗第十組專題](https://www.youtube.com/watch?v=kPIswF3JSU8)
+# Projects
+## Digital Lab
+### Experiment Record
+[Watch Video on YouTube](https://www.youtube.com/playlist?list=PLTziOt9Fys0vLCG7TpVdrMkiWWvZKkALs)
 
-- [Rhythm Dodge](https://youtu.be/Hs4Y7Y34i3U)
+### Final Project -- Magic Tiles
+[Watch Video on YouTube](https://www.youtube.com/watch?v=kPIswF3JSU8)
+
+## Rhythm Dodge
+[Watch Video on YouTube](https://youtu.be/Hs4Y7Y34i3U)
