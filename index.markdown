@@ -5,7 +5,7 @@
 layout: page
 title: "Home"
 ---
-<img src="https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/photo/homepage.png" width="1000">
+<img src="https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/pictures/homepage.png" width="1000">
 
 # Welcome to Hazel's Cat Bed!
 
