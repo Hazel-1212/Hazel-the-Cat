@@ -44,7 +44,7 @@ A Python simulation to get expected values, and verify with probability calculat
 
 Programming homework of the course -- Probability in 114 spring.
 
-[**More about ...**](https://github.com/Hazel-1212/Square_throwing_Simulation.git) : 
+[**More about ...**](https://github.com/Hazel-1212/Square_throwing_Simulation.git) 
 
 
 ## **Simple Routing**
