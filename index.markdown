@@ -5,12 +5,11 @@
 layout: page
 title: "Home"
 ---
+<img src="https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/photo/homepage.png" width="1000">
 
 # Welcome to Hazel's Cat Bed!
 
 I’m Hazel, currently studying Electrical Engineering at National Yang Ming Chiao Tung University. I’m passionate about exploring how mathematics, hardware, and finance intersect — with a long-term goal of building a career that bridges EE and actuarial science.
-
-At university, I’ve challenged myself through a diverse range of courses — from logic design and digital systems to probability, object-oriented programming. Alongside my major, I plan to pursue a minor in Financial and to pass three SOA exams before graduation.I’m always excited to meet like-minded people and share experiences to create a virtuous cycle.
 
 ## Treasure Trove
 **Other sources**
