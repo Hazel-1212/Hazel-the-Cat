@@ -25,7 +25,7 @@ title: Vlog
 
 [Watch Video on YouTube](https://youtu.be/Hs4Y7Y34i3U)
 
-## **Optical Communcication**
+## **Optical Communication**
 ---
 
 *Arduino project done in my senior high school.*
