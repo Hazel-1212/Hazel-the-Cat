@@ -24,3 +24,12 @@ title: Vlog
 *OOP Final Project with Python.*
 
 [Watch Video on YouTube](https://youtu.be/Hs4Y7Y34i3U)
+
+## **Optical Communication**
+---
+
+*Arduino project done in my senior high school.*
+
+*Golden Price in Open Call Scientific Video Submissions held by National Science and Technology Council*
+
+[Watch Video on YouTube](https://youtu.be/68nFNJQC-70)
