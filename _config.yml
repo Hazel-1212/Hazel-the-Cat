@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hazel's Cat Bed
+title: Hazel the Cat
 email: achievegoal9@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Hazel Chen, a student in NYCU EE, is documenting her journey and experiences.
 baseurl: "/Hazel-the-Cat" # the subpath of your site, e.g. /blog
 url: "https://hazel-1212.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  Hazel-1212
+# github_username:  Hazel-1212
 
 # Build settings
 theme: minima
