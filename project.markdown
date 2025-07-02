@@ -4,7 +4,7 @@ title: Projects
 ---
 
 # **Guideline of the projects on GitHub** 
-## **Magic Tiles**
+## 🎼**Magic Tiles**
 *2025-05*
 
 ### `Abstract`
@@ -19,7 +19,7 @@ Final project of the course -- Digital Lab in 114 spring.
 
 [**More about ...**](_posts/2025-06-13-Magic-Tiles.md)  
 
-## **Rhythm Dodge**
+## 🎶**Rhythm Dodge**
 *2025-06*
 ### `Abstract`
 
@@ -33,7 +33,7 @@ Final project of the course -- OOP in 114 spring.
 
 [**More about ...**](https://github.com/haleychang0530/oop-2025-proj-rhythm-dodge.git) 
 
-## **Square-throwing Simulation**
+## 📊**Square-throwing Simulation**
 *2025-04*
 
 ### `Abstract`
@@ -47,7 +47,7 @@ Programming homework of the course -- Probability in 114 spring.
 [**More about ...**](https://github.com/Hazel-1212/Square_throwing_Simulation.git) 
 
 
-## **Simple Routing**
+## 📐**Simple Routing**
 *2024-12*
 
 ### `Abstract`

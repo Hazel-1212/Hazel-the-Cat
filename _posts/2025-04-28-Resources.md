@@ -5,13 +5,13 @@ date:   2025-04-28 19:08:19 +0800
 categories: jekyll update
 ---
 # **Links related to the academic sources in Colledge**
-## Textbook
+## 📖Textbook
 
 - <a href="https://z-library.rs/" target="_blank">e_book</a>
 
 - <a href="https://drive.google.com/drive/folders/1L_Rs1bUpOxThALwnMEMSMxvZZLFlzh_i?usp=sharing" target="_blank">Fundamentals_of_Logic_Design</a>
 
-## 交大電機考古題
+## 🗂️交大電機考古題
 
 - [交大電機考古](https://prevexam.dece.nycu.edu.tw/)
 
