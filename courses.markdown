@@ -3,7 +3,7 @@ layout: page
 title: Courses
 ---
  
-# **Introduction of the courses I took in NYCU EE**
+<img src="https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/photo/courses.png" width="1200">
 
 ## [大一下修課紀錄](_posts/2025-06-08-大一下修課紀錄.md)
 *114 Spring*

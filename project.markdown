@@ -3,7 +3,8 @@ layout: page
 title: Projects
 ---
 
-# **Guideline of the projects on GitHub** 
+<img src="https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/photo/proj.png" width="1200">
+
 ## 🎼**Magic Tiles**
 *2025-05*
 
