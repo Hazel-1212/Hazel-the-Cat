@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hazel Chen - Personal Site
+title: Hazel Chen 
 email: achievegoal9@gmail.com
 description: >-
   Hazel Chen, a student in NYCU Electrical Engineering, is documenting her journey in engineering, actuarial science, and tech projects.
