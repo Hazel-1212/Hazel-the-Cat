@@ -31,6 +31,7 @@ github_username: Hazel-1212
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag  # 🔍 新增這行，開啟 SEO meta 自動生成
 
 # Exclude from processing.
