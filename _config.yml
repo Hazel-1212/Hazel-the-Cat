@@ -18,15 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hazel Chen 
+title: Hazel 
 email: achievegoal9@gmail.com
 description: >-
-  Hazel Chen, a student in NYCU Electrical Engineering, is documenting her journey in engineering, actuarial science, and tech projects.
+  Hazel Chen, a student in NYCU Electrical Engineering, is documenting her journey in engineering, actuarial science, and tech projects. 
+  交大電機修課/期末專題/交大工讀生。
 baseurl: "/Hazel-the-Cat"
 url: "https://hazel-1212.github.io"
 
 author: Hazel Chen
-github_username: Hazel-1212
+# github_username: Hazel-1212
 
 theme: minima
 plugins:
