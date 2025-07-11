@@ -25,17 +25,17 @@
       margin-right: 20px;
     }
      nav {
-      background-color: #ffffff;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-      padding: 10px 20px;
+      position: absolute;
+      top: 20px;
+      right: 30px;
     }
 
     nav ul {
       list-style: none;
       display: flex;
       gap: 20px;
-      padding: 0;
       margin: 0;
+      padding: 0;
     }
 
     nav li {
@@ -46,6 +46,7 @@
       text-decoration: none;
       color: #333;
       font-weight: bold;
+      transition: color 0.2s ease-in-out;
     }
 
     nav a:hover {
@@ -56,8 +57,9 @@
       display: flex;
       flex-direction: row;
       max-width: 900px;
+      min-height: 300px;
       width: 90%;
-      background-color: #fff;
+      background-color: #a69595;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
       border-radius: 16px;
       overflow: hidden;
@@ -109,20 +111,20 @@
 <body>
   <nav>
     <ul>
-      <li><a href="_sites/campus.html">校園</a></li>
-      <li><a href="_sites/courses.html">修課</a></li>
-      <li><a href="_sites/ramble.html">隨筆</a></li>
-      <li><a href="_sites/project.html">Projects</a></li>
-      <li><a href="_sites/vlog.html">Vlog</a></li>
+      <li><a href="campus.html">校園</a></li>
+      <li><a href="courses.html">修課</a></li>
+      <li><a href="ramble.html">隨筆</a></li>
+      <li><a href="project.html">Projects</a></li>
+      <li><a href="vlog.html">Vlog</a></li>
     </ul>
   </nav>
   <div class="container">
     <div class="image-section"></div>
     <div class="content-section">
 
-      <h1>Your Name</h1>
-      <p>Hi! I'm Hazel. Welcome to my personal site. Here you’ll find my projects, blog, and more.</p>
-      <a href="about.html">Learn more →</a>
+      <h1>Hazel Chen</h1>
+      <p>Hi! I'm Hazel. Welcome to my personal site. Here you’ll find courses I have taken, my projects, and more.</p>
+      <ul><li><a href="about.html">About me →</a></li></ul>
     </div>
   </div>
 </body>
