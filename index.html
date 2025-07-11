@@ -24,9 +24,34 @@
       display: inline;
       margin-right: 20px;
     }
-    header a:hover {
-      text-decoration: underline;
+     nav {
+      background-color: #ffffff;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      padding: 10px 20px;
     }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 20px;
+      padding: 0;
+      margin: 0;
+    }
+
+    nav li {
+      display: inline;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: #0077cc;
+    }
+
     .container {
       display: flex;
       flex-direction: row;
@@ -41,7 +66,8 @@
     .image-section {
       flex: 1;
       background: url('https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/photo/index.png') no-repeat center center/cover;
-      min-height: 300px;
+      min-height: 200px;
+      min-width: 600px;
     }
 
     .content-section {
@@ -81,16 +107,19 @@
   </style>
 </head>
 <body>
+  <nav>
+    <ul>
+      <li><a href="_sites/campus.html">校園</a></li>
+      <li><a href="_sites/courses.html">修課</a></li>
+      <li><a href="_sites/ramble.html">隨筆</a></li>
+      <li><a href="_sites/project.html">Projects</a></li>
+      <li><a href="_sites/vlog.html">Vlog</a></li>
+    </ul>
+  </nav>
   <div class="container">
     <div class="image-section"></div>
     <div class="content-section">
-        <ul>
-            <li><a href='campus.md'>校園</a></li>
-            <li><a href='courses.markdown'>修課</a></li>
-            <li><a href='ramble.md'>隨筆</a></li>
-            <li><a href='project.markdown'>Projects</a></li>
-            <li><a href='vlog.md'>Vlog</a></li>
-        </ul>
+
       <h1>Your Name</h1>
       <p>Hi! I'm Hazel. Welcome to my personal site. Here you’ll find my projects, blog, and more.</p>
       <a href="about.html">Learn more →</a>
