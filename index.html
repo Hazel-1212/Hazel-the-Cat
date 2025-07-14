@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Hazel | NYCU EE</title>
+  <title>Hazel | 交大電機</title>
   <style>
     * {
       box-sizing: border-box;
@@ -60,8 +60,7 @@
     .container {
       display: flex;
       flex-direction: row;
-      max-width: 1000px;
-      max-height: 400px;
+      /*max-height: 400px;*/
       width: 80%;
       background-color: #a69595;
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
@@ -73,8 +72,9 @@
     .image-section {
       flex: 1;
       background: url('https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/photo/index.png') no-repeat center center/cover;
-      max-height: 400px;
-      top: 60px;
+      /*max-height: 400px;*/
+      background-color: #fff; /* 加背景色避免透明邊界 */
+      background-size: contain; /* 保持圖片完整，不裁切 */
     }
 
     .content-section {
@@ -113,6 +113,7 @@
   justify-content: center;
   min-height: 100vh; /* ✅ 可滑動 */
   padding-top: 40px;  /* ✅ 自訂距離頂端位置 */
+  padding-bottom: 40px;
 }
 
   .container {
@@ -124,6 +125,8 @@
   .image-section {
     width: 100%;
     height: none;
+    padding: 20px;
+    background-size: contain; /* 保持圖片完整，不裁切 */
   }
 
   .content-section {
@@ -161,15 +164,6 @@
       <h1>Hazel Chen</h1>
       <p>Welcome! I'm Hazel, a student in NYCU Electronics and Engineering. I'mdocumenting my journey in engineering, actuarial science, and tech projects.</p>
       <ul><li><a href="about.html">About me →</a></li></ul>
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="image-section"></div>
-    <div class="content-section">
-
-      <h1>修課</h1>
-      <p>紀錄交大電機大學的修課歷程。</p>
     </div>
   </div>
 
