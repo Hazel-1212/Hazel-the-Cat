@@ -21,7 +21,9 @@
       /*height: 100vh;*/
       min-height: 100vh;
       flex-direction: column;
+
     }
+
     header li{
       display: inline;
       margin-right: 20px;
@@ -65,12 +67,14 @@
       box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
       border-radius: 16px;
       overflow: hidden;
+      margin-top: 60px;  /* ✅ 往下移 */
     }
 
     .image-section {
       flex: 1;
       background: url('https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/photo/index.png') no-repeat center center/cover;
       max-height: 400px;
+      top: 60px;
     }
 
     .content-section {
@@ -104,6 +108,13 @@
     }
 
 @media (max-width: 768px) {
+      body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh; /* ✅ 可滑動 */
+  padding-top: 40px;  /* ✅ 自訂距離頂端位置 */
+}
+
   .container {
     flex-direction: column; /* 🔁 垂直排列：圖片上文字下 */
     width: 100%;
@@ -157,9 +168,8 @@
     <div class="image-section"></div>
     <div class="content-section">
 
-      <h1>校園</h1>
-      <p>Welcome! I'm Hazel, a student in NYCU Electronics and Engineering. I'mdocumenting my journey in engineering, actuarial science, and tech projects.</p>
-      <ul><li><a href="about.html">About me →</a></li></ul>
+      <h1>修課</h1>
+      <p>紀錄交大電機大學的修課歷程。</p>
     </div>
   </div>
 
