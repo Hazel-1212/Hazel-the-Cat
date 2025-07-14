@@ -3,6 +3,8 @@ layout: page
 title: Vlog
 ---
 
+<img src="https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/pictures/vlog_gif.gif" class="responsive-gif" />
+
 ## 🎼**Magic Tiles**
 ---
 
