@@ -18,7 +18,9 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      height: 100vh;
+      /*height: 100vh;*/
+      min-height: 100vh;
+      flex-direction: column;
     }
     header li{
       display: inline;
@@ -96,10 +98,11 @@
       font-weight: bold;
     }
 
-    @media (max-width: 768px) {
+@media (max-width: 768px) {
   .container {
-    flex-direction: row;
+    flex-direction: column; /* 🔁 垂直排列：圖片上文字下 */
     width: 100%;
+    max-height: none; /* 🧼 移除高度限制，讓內容能滑動 */
   }
 
   .image-section {
@@ -120,6 +123,7 @@
     font-size: 1rem;
     line-height: 1.5;
   }
+
 }
 
   </style>
