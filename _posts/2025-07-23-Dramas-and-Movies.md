@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dramas and Movies"
+title:  "🎥追劇與電影"
 date:   2025-07-23 18:08:39 +0800
 categories: jekyll update
 ---
