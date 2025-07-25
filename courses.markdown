@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 修課
+title: 修課心得
 ---
  
 <img src="https://raw.githubusercontent.com/Hazel-1212/Hazel-the-Cat/main/photo/courses.png" width="1200">
