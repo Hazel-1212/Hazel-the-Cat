@@ -13,6 +13,9 @@ title: 追劇日常
 | [💕消えた初恋](/Hazel-the-Cat/jekyll/update/2025/07/23/被擦掉的初戀.html)        | 道枝駿佑、目黑蓮      | 喜劇、BL |
 | [🌱マイ・セカンド・アオハル](/Hazel-the-Cat/jekyll/update/2025/07/29/youth.html)       | 道枝駿佑、廣瀨愛麗絲      | 喜劇、姊弟戀 |
 | [👗俺のスカート、どこ行った?](/Hazel-the-Cat/jekyll/update/2025/07/29/我的裙子去哪了.html) | 古田新太、(重要配角:道枝駿佑)      | 喜劇、LGBTQ、校園 |
+| [💕愛の、がっこう](/Hazel-the-Cat/jekyll/update/2025/07/23/被擦掉的初戀.html)        | Raul(Snow man)、木村文乃  | 姊弟戀、禁忌之戀 |
+| [💕御曹司に恋はムズすぎる](/Hazel-the-Cat/jekyll/update/2025/07/23/被擦掉的初戀.html)        | 永瀨廉(King&Prince)、山下美月  | 職場、自戀任性富家少爺*認真節儉灰姑娘 |
+| [📜新・信長公記〜ノブナガくんと私〜](/Hazel-the-Cat/jekyll/update/2025/07/23/被擦掉的初戀.html)        | 永瀨廉、山田杏奈  | 歷史、校園、戰 |
 
 ### 映画
 
