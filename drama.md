@@ -6,14 +6,22 @@ title: 追劇日常
 <h2 id="目錄" style="text-align: center;"><strong>🎬 目錄</strong></h2>
 
 ## 🎥**日本**
+### 電視劇
 
 | 名前             | 主演                         | タイプ         |
 |------------------|------------------------------|--------------|
-| [💕消えた初恋](/Hazel-the-Cat/jekyll/update/2025/07/23/被擦掉的初戀.html)        | 道枝駿佑、目黑蓮      | 電視劇、喜劇、BL |
-| [😭今夜、世界からこの恋が消えても](/Hazel-the-Cat/jekyll/update/2025/07/23/即使-今晚這份戀情會從世界上消失.html)        | 道枝駿佑、福本莉子      | 電影、浪漫淒美 |
-|[🌱マイ・セカンド・アオハル](/Hazel-the-Cat/jekyll/update/2025/07/29/youth.html)       | 道枝駿佑、廣瀨愛麗絲      | 電視劇、喜劇、姊弟戀 |
-| [🚀俺のスカート、どこ行った?](/Hazel-the-Cat/jekyll/update/2025/07/29/我的裙子去哪了.html) | 古田新太、(重要配角:道枝駿佑)      | 電視劇、喜劇、校園 |
-| [🎀兄に愛されすぎて困ってます](/Hazel-the-Cat/jekyll/update/2025/07/29/bro.html) | 片寄涼太、土屋太鳳| 電影、喜劇、骨科戀、少女 |
+| [💕消えた初恋](/Hazel-the-Cat/jekyll/update/2025/07/23/被擦掉的初戀.html)        | 道枝駿佑、目黑蓮      | 喜劇、BL |
+| [🌱マイ・セカンド・アオハル](/Hazel-the-Cat/jekyll/update/2025/07/29/youth.html)       | 道枝駿佑、廣瀨愛麗絲      | 喜劇、姊弟戀 |
+| [👗俺のスカート、どこ行った?](/Hazel-the-Cat/jekyll/update/2025/07/29/我的裙子去哪了.html) | 古田新太、(重要配角:道枝駿佑)      | 喜劇、LGBTQ、校園 |
+
+### 映画
+
+| 名前             | 主演                         | タイプ         |
+|------------------|------------------------------|--------------|
+| [😭今夜、世界からこの恋が消えても](/Hazel-the-Cat/jekyll/update/2025/07/23/即使-今晚這份戀情會從世界上消失.html)        | 道枝駿佑、福本莉子      | 浪漫淒美 |
+| [🍱461個のおべんとう](/Hazel-the-Cat/jekyll/update/2025/07/29/bento.html) | 井之原快彥、道枝駿佑     | 親情、校園 |
+| [⛰️青春18×2 君へと続く道](/Hazel-the-Cat/jekyll/update/2025/07/29/pathtoyou.html) | 李光漢、清原果耶、張孝全、道枝駿佑   | 背包客、台灣山岳 |
+| [🎀兄に愛されすぎて困ってます](/Hazel-the-Cat/jekyll/update/2025/07/29/bro.html) | 片寄涼太、土屋太鳳| 喜劇、骨科戀、少女 |
 
 - [❄️Snow Man ~ Song](/Hazel-the-Cat/jekyll/update/2025/07/25/Snow-Man.html)
 - [🌸浪花男子 ~ Song](/Hazel-the-Cat/jekyll/update/2025/07/25/Naniwa-Danshi.html)
