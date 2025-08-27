@@ -66,7 +66,7 @@ color: rgb(128, 0, 32);
   color: rgb(255, 105, 180);
 }
 .title{
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
   color: rgb(101, 0, 11);
   text-align: center;
@@ -82,7 +82,7 @@ color: rgb(128, 0, 32);
   margin-bottom:12px; 
   border-radius:8px; 
   box-shadow:0 2px 5px rgba(0,0,0,0.1); 
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 .result p{
@@ -92,9 +92,9 @@ color: rgb(128, 0, 32);
 .btn-group {
   display: flex;
   justify-content: center;
-  gap: 20px;
-  margin: 30px 0;
-  font-size:1.2rem;
+  gap: 5px;
+  margin: 20px 0;
+  font-size:1rem;
 }
 
 .btn-group a {
