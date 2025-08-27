@@ -1,0 +1,146 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+    header {
+      background: rgb(139, 0, 0);
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 2.5rem;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+      color:rgba(255, 182, 193, 0.5);
+    }
+
+img {
+  display: block;      /* 讓 img 當作區塊元素 */
+  width: 100vw;        /* 永遠等於視窗寬度 */
+  height: auto;        /* 高度自動保持比例 */
+  margin: 0 auto;      /* 水平置中 (block 元素) */
+}
+      
+h1{
+color: rgb(128, 0, 32);
+  text-align: center;
+  font-size: 3rem;
+}
+h2{
+color: rgb(128, 0, 32);
+  text-align: center;
+  font-size: 2rem;
+}
+
+.articles{
+  display: grid;
+ grid-template-columns: repeat(4, 1fr); /* 固定 4 欄 */
+  gap: 20px;
+  text-align: left;
+}
+.articles p{
+  margin: 10px 0;
+  text-align: center;
+}
+.articles img{
+  width: 100%;
+  aspect-ratio: 1 / 1;   /* 強制寬高比 1:1 */
+  object-fit: cover;     /* 保持比例，超出的裁切掉 */
+  border-radius: 12px;    /* 可選：圓角 */
+}
+.articles a{
+  text-decoration: none;
+  color: rgb(101, 0, 11);
+}
+.articles a:hover{
+  color: rgb(255, 105, 180);
+}
+.title{
+  font-size: 2rem;
+  font-weight: bold;
+  color: rgb(101, 0, 11);
+  text-align: center;
+  border: 2px solid rgb(139, 0, 0);      /* ✅ 外框 */
+  background-color: white;   /* ✅ 背景色 */
+  text-align: center;
+  margin-left: 0; /* 不留空隙 */
+}
+.result{
+  color:rgb(139, 0, 0);
+  background:#fff; 
+  padding:15px; 
+  margin-bottom:12px; 
+  border-radius:8px; 
+  box-shadow:0 2px 5px rgba(0,0,0,0.1); 
+  font-size: 1.5rem;
+}
+
+.result p{
+    text-align: left;
+}
+
+.btn-group {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 30px 0;
+  font-size:1.5rem;
+}
+
+.btn-group a {
+  display: inline-block;
+  background: #b03a48;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+font-weight: 600;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.btn-group a:hover {
+  background: rgb(255, 105, 180);
+   transform: translateY(-10px);
+}
+
+.github-link {
+  text-align: center;
+  justify-content: center;
+   margin: 30px 0;
+  font-size:1rem;
+  gap: 20px;
+}
+
+.github-link a {
+  display: inline-block;
+  background: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.github-link a:hover {
+  background: yellow;
+transform: translateY(-10px);
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9rem;
+  color: white;
+  background-color: rgb(139, 0, 0);
+}
